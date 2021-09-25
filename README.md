@@ -1,4 +1,4 @@
-Hi, i like to do code!
+Hi, i like code!
 
 # Milestones
 
