@@ -1,5 +1,7 @@
 Hi, i like code!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yukari-san)](https://github.com/anuraghazra/github-readme-stats)
+
 # Milestones
 
 - Learn JavaScript
