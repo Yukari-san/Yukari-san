@@ -1,6 +1,6 @@
 Hi, i like code!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yukari-san)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yukari-san&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 # Milestones
 
@@ -9,7 +9,7 @@ Hi, i like code!
 - Learn React
 - Learn Computer Vision with Python ;)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yukari-san)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yukari-san&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Yukari-san/Yukari-san is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
